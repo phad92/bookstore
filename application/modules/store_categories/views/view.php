@@ -1,0 +1,1 @@
+<?php $cat_title;?>

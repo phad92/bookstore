@@ -1,0 +1,1 @@
+<?php echo Modules::run('store_books/_draw')?>

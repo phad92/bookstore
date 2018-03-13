@@ -1,0 +1,8 @@
+{
+  "name": "sample-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "animate.css": "latest",
+    "owl.carousel": "^2.2.1"
+  }
+}
